@@ -2,7 +2,7 @@
 title: "Assignment0"
 author: "Timothy Alladin"
 date: "Monday, February 01, 2016"
-output: html_document
+output: html_document: keep_md: true
 ---
 
 ToDo Number 1:
